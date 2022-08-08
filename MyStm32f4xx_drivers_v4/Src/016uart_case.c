@@ -24,9 +24,6 @@ char rx_buf[1024] ;
 DMA_Handle_t   pDMAHandle;
 
 
-/* Deneme deneme */
-
-
 
 void USART2_Init(void)
 {
